@@ -1,0 +1,86 @@
+
+
+h4{
+    color: red;
+}
+
+h1{
+    text-align: center;
+    font-size: 1.25vw;
+    color: black;
+    background-color: #a6a6a6;
+}
+
+li{
+    font-size: 1.25em;
+    color: gray;
+    
+
+}
+fieldset{
+    background-color: black;
+}
+
+title{
+    background-color: black;
+}
+
+.fruit-mix{
+    width: 182px;
+    height: 182px;
+    background-color: #adff00;
+    color: #adff00;
+
+}
+.mixed-fruit-desc{
+    font-size: 1.25vw;
+    background-color: #696969;
+}
+.bg-green{
+    background-color: #adff00;
+    display: flex;
+    align-items: center;
+    
+}
+
+.fruit3 img{
+    height: auto;
+    width: 182px;
+
+}
+
+.fruit3{
+    display: flex;
+    justify-content: space-around;
+    background-color: #adff00;
+    
+}
+
+.main{
+    display: flex;
+
+}
+
+.fruit1{
+    width: 70%;
+
+}
+
+aside >h1{
+     font-size: 1.25vw;
+}
+
+aside  ul > li {
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+footer > h3{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #696969;
+
+}
