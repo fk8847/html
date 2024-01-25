@@ -84,3 +84,18 @@ footer > h3{
     background-color: #696969;
 
 }
+
+@media only screen and (max-width:425px){
+    .main{
+        display: block
+    }
+    aside{
+        width: 100%;
+        background-color: #CDFF64; }
+
+
+    }
+
+    body{
+        
+    }
